@@ -1,0 +1,22 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# Environments #
+.env
+
+# Миграции
+*/migrations/*
+
+# Папка IDE (например, PyCharm)
+.idea/
+.vscode/
+
+# Папки виртуальных окружений
+venv/
+.env/
